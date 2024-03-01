@@ -1,0 +1,16 @@
+age_category,gender,employees
+18-25,Female,1080
+18-25,Male,1204
+18-25,Non-Conforming,62
+26-35,Female,2371
+26-35,Male,2503
+26-35,Non-Conforming,139
+36-45,Female,2183
+36-45,Male,2599
+36-45,Non-Conforming,132
+46-55,Female,2149
+46-55,Male,2299
+46-55,Non-Conforming,130
+56-65,Female,307
+56-65,Male,306
+56-65,Non-Conforming,18
